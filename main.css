@@ -11,7 +11,10 @@
 
 .jumbotron {
     height: 500px;
-    background-image: url('https://goo.gl/04j7Nn');
+    background-image: url('images/fish_in_pond_mesh.JPG');
+    background-repeat: no-repeat;
+    background-attachedment: fixed;
+    background-position: 50% 50%;
 }
 
 .jumbotron h1 {
