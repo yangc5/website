@@ -14,7 +14,11 @@
     background-image: url('images/fish_in_pond_mesh.JPG');
     background-repeat: no-repeat;
     background-attachedment: fixed;
-    background-position: 50% 50%;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .jumbotron h1 {
