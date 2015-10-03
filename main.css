@@ -42,6 +42,11 @@
     top: 100px;
 }
 
+/*hide main section when visitor first vist and intro image full width*/
 .main {
   display: none;
+}
+
+.intro img {
+  width: 100%;
 }
