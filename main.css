@@ -41,3 +41,7 @@
     position: relative;
     top: 100px;
 }
+
+.main {
+  display: none;
+}
